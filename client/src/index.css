@@ -21,6 +21,10 @@ body {
   font-size: 0.8rem;
 }
 
+.activeNavLink{
+  background-color: aquamarine;
+}
+
 .saved-list {
   background-color: #fff;
   border: 0;

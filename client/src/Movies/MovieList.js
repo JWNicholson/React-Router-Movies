@@ -50,7 +50,6 @@ function MovieDetails({ movie }) {
         </div>
       ))}
     </div>
-   
   );
 }
 
